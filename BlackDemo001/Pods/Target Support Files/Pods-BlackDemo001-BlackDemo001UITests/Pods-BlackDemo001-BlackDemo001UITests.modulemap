@@ -1,0 +1,6 @@
+framework module Pods_BlackDemo001_BlackDemo001UITests {
+  umbrella header "Pods-BlackDemo001-BlackDemo001UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

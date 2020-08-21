@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerBackColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x000000</string>
+		<key>lightAlpha</key>
+		<string>1</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key>darkAlpha</key>
+		<string>1</string>
+		<key> info</key>
+		<string>layer的背景颜色</string>
+	</dict>
+	<key>layerBorderColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x2ACA70</string>
+		<key>dark</key>
+		<string>0xFFBE3C</string>
+		<key> info</key>
+		<string>layer的边框颜色</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  BlackDemo001
+//
+//  Created by yan on 2020/5/21.
+//  Copyright © 2020 yan. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import "JMIUserInterfaceStyle.h"
+#import "Masonry.h"
+
+#define JMIMainW [UIScreen mainScreen].bounds.size.width //屏幕宽
+#define JMIMainH [UIScreen mainScreen].bounds.size.height //屏幕高
+#define JMIColorAlpha(rgb, alpha) jmi_colorFromRGBAndAlpha(rgb, alpha) 
+
+#endif /* PrefixHeader_pch */

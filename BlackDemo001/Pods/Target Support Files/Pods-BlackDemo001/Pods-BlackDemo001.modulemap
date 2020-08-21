@@ -1,0 +1,6 @@
+framework module Pods_BlackDemo001 {
+  umbrella header "Pods-BlackDemo001-umbrella.h"
+
+  export *
+  module * { export * }
+}

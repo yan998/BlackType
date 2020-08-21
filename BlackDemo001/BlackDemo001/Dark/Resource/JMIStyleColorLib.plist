@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>textColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x000000</string>
+		<key>lightAlpha</key>
+		<string>1</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key>darkAlpha</key>
+		<string>1</string>
+		<key> info</key>
+		<string>普通文本的颜色</string>
+	</dict>
+	<key>backColor</key>
+	<dict>
+		<key>light</key>
+		<string>0xFFFFFF</string>
+		<key>dark</key>
+		<string>0x212223</string>
+		<key> info</key>
+		<string>普通view的背景颜色</string>
+	</dict>
+	<key>segmentTextColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x6D7278</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key> info</key>
+		<string>segment上面的文字颜色</string>
+	</dict>
+	<key>cellTextColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x333333</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key> info</key>
+		<string>cell上面标题文字的颜色</string>
+	</dict>
+	<key>cellSubTextColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x999999</string>
+		<key>dark</key>
+		<string>0x797A7F</string>
+		<key> info</key>
+		<string>cell上面副标题文字的颜色</string>
+	</dict>
+	<key>tabBarTextColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x9FA3A1</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key> info</key>
+		<string>tabbar文字的颜色</string>
+	</dict>
+	<key>separatorColor</key>
+	<dict>
+		<key>light</key>
+		<string>0xF2F2F2</string>
+		<key>dark</key>
+		<string>0x292A2B</string>
+		<key> info</key>
+		<string>分割线的颜色</string>
+	</dict>
+	<key>grayBackColor</key>
+	<dict>
+		<key>light</key>
+		<string>0xF7F7F7</string>
+		<key>dark</key>
+		<string>0x000000</string>
+		<key> info</key>
+		<string>灰色背景的颜色</string>
+	</dict>
+	<key>tableViewSectionHeaderColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x06191C</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key> info</key>
+		<string>tableView  sectionHeader的标题颜色</string>
+	</dict>
+	<key>feeTextColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x666666</string>
+		<key>dark</key>
+		<string>0xFFFFFF</string>
+		<key> info</key>
+		<string>表格中的信息颜色</string>
+	</dict>
+	<key>layerColor</key>
+	<dict>
+		<key>light</key>
+		<string>0xFBAE15</string>
+		<key>dark</key>
+		<string>0x65DB7F</string>
+		<key> info</key>
+		<string>Layer 的背景颜色</string>
+	</dict>
+	<key>textFieldTintColor</key>
+	<dict>
+		<key>light</key>
+		<string>0x2ACA70</string>
+		<key>lightAlpha</key>
+		<string>1</string>
+		<key>dark</key>
+		<string>0x2ACA70</string>
+		<key>darkAlpha</key>
+		<string>1</string>
+		<key> info</key>
+		<string>输入框的tintColor</string>
+	</dict>
+</dict>
+</plist>
